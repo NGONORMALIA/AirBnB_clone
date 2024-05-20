@@ -6,10 +6,10 @@ We won’t implement all the features, only some of them to cover all fundamenta
 
 Our application will be composed by:
 
-A command interpreter to manipulate data without a visual interface, like in a Shell
-A website that shows the final: static and dynamic
-A database or files that store data
-An API that provides a communication interface between the front-end and our data
+- A command interpreter to manipulate data without a visual interface, like in a Shell
+- A website that shows the final: static and dynamic
+- A database or files that store data
+- An API that provides a communication interface between the front-end and our data
 
 Environment
-Suite CRM terminal python Suite CRM Suite CRM git distributed version control system Github
+![image](https://github.com/NGONORMALIA/AirBnB_clone/assets/137868819/69214008-6e01-4002-aa92-bdc8e91975e7)
