@@ -21,5 +21,39 @@ Environment
 ![image](https://github.com/NGONORMALIA/AirBnB_clone/assets/137868819/ed035416-c0a6-43ca-9be4-c02446ae663b) 
 ![image](https://github.com/NGONORMALIA/AirBnB_clone/assets/137868819/cdf0f8d9-6697-4ecf-a7ba-94c5ba0c6bba)
 
+Execution
+Your shell should work like this in interactive mode:
 
+$ ./console.py
+(hbnb) help
+
+Documented commands (type help <topic>):
+========================================
+EOF  help  quit
+
+(hbnb) 
+(hbnb) 
+(hbnb) quit
+$
+But also in non-interactive mode: (like the Shell project in C)
+
+$ echo "help" | ./console.py
+(hbnb)
+
+Documented commands (type help <topic>):
+========================================
+EOF  help  quit
+(hbnb) 
+$
+$ cat test_help
+help
+$
+$ cat test_help | ./console.py
+(hbnb)
+
+Documented commands (type help <topic>):
+========================================
+EOF  help  quit
+(hbnb) 
+$
 
